@@ -1,0 +1,9 @@
+{
+  "session": "fictional-demo-001",
+  "turns": [
+    {"role": "user", "text": "My email is amina@example.com and my phone is +249 91 234 5678."},
+    {"role": "user", "text": "Use this API key: sk-abcdef0123456789abcd"},
+    {"role": "assistant", "text": "I cannot use or store that key. Please rotate it."},
+    {"role": "user", "text": "Authorization: Bearer abcdef0123456789"}
+  ]
+}
